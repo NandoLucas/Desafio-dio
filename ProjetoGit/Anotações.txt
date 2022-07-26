@@ -1,0 +1,2 @@
+Este é um projeto básico sobre a criação de um repositório para 
+colocar os projetos realizados durante os bootcamps.
