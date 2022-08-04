@@ -1,0 +1,13 @@
+Linux:
+	- Listar: ls
+	- Navegar: cd
+	- Limpar: clear ou ctrl+L
+	- Criar pasta: mkdir nome_da_pasta
+	- Deletar repositório: rm -rf nome_da_pasta
+
+Windows: 
+	- Listar: dir
+	- Navegar: cd
+	- Limpar: cls 
+	- Criar pasta: mkdir nome_da_pasta
+	- Deletar repositório: rmdir nome_da_pasta /S /Q
