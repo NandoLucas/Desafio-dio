@@ -1,2 +1,2 @@
-# Repositório para projetos do BootCamp Full-Stack
-Criado para projeto de Git 
+# Repositório para projetos dos BootCamps DIO
+Criado para colocar projetos e práticas realizadas durante os bootcamps realizados no sistema da DIO. 
