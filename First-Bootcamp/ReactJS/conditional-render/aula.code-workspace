@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../aula"
+		},
+		{
+			"path": "../renderization"
+		},
+		{
+			"path": "../aula-components"
+		},
+		{
+			"path": "../aula-lifecycle"
+		},
+		{
+			"path": "../webpack"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modules"
+	}
+}
