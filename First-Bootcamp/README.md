@@ -1,2 +1,3 @@
-# Repositório para projetos do BootCamp Full-Stack
-Criado para projeto de Git 
+# Repositório para projetos do BootCamp Santander
+Criado para projetos e atividades desenvolvidas durante o Bootcamp.
+* Bootcamp não concluído 100%.
